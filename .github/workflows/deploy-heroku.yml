@@ -1,4 +1,6 @@
 name: Deploy Node.js Backend to Heroku
+permissions:
+  contents: read
 
 on:
   push:
